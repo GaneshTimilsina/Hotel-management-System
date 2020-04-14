@@ -1,0 +1,13 @@
+		===============================================
+				Room Details
+		===============================================
+
+		Total Rooms:	50
+
+	1. Single Bed Room:        1500
+	2. Double bed Room:        2000
+	3. Single Bed Room(A/C):   2000
+	4. Double bed Room(A/C):   2000500
+	5. 32" Smart TV
+	6. Attached Bathroom
+	7. 24/7 Power Supply
